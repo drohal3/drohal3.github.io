@@ -19,3 +19,7 @@ Update device:
 
 Plot data:
 ![AQvis login](/images/portfolio/AQvis.png)
+
+Tech stack
+===
+FastAPI, ReactJS, ReCharts, MaterialUI
