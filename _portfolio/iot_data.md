@@ -3,7 +3,7 @@ title: "Comparison of IoT data storage options"
 excerpt: "Experimental comparison of DynamoDB, Timestream, and Kinesis Data Streams + S3<br/><img src='/images/portfolio/IoTdata_options.jpeg'>"
 collection: portfolio
 ---
-> Results to be published soon
+> Results will be published soon
 
 Infrastructure provisioned with Terraform IaC tool ([GitHub repository](https://github.com/drohal3/aq-infra-data-experiment))
 
