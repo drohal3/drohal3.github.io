@@ -5,13 +5,12 @@ collection: portfolio
 ---
 IoT data visualisation tool developed for [IdealAQ](https://idealaq.com).
 
-Front-end: [GitHub repository](https://github.com/drohal3/aq-vis-frontend)
- | Back-end: [GitHub repository](https://github.com/drohal3/aq-vis-backend)
+GitHub repositories: [front-end](https://github.com/drohal3/aq-vis-frontend), [back-end](https://github.com/drohal3/aq-vis-backend)
 
 Login:
 ![AQvis login](/images/portfolio/AQvis_login.png)
 
-Device configuration:
+Configure Device:
 ![AQvis login](/images/portfolio/AQvis_devices.png)
 
 Update device:
