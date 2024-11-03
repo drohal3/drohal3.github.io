@@ -17,3 +17,5 @@ I moved to Finland for a double-degree program, which awarded me a second bachel
 
 In my free time, I enjoy traveling and playing board games with friends.
 ![Lapland](/images/lapland.jpg)
+
+> Please, see my [portfolio](/portfolio)
